@@ -97,4 +97,4 @@ int removeElement(int *nums, int numsSize, int val)
 5. 这是原地修改，不能直接创建一个新的数组来保存结果。
 6. 当前函数没有输入输出操作，因此不需要 stdio.h；本地测试时可以另外编写带 main 函数的测试文件。
 
-##六、复盘：
+## 六、复盘：
